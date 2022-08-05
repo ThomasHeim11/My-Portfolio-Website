@@ -9,7 +9,7 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in the Web3 development world.
-      From Back-end To Design. My main expertise is with smart contracts and solidity, but I`m always  curious to learn new skills.
+      From Back-end To Design. My main expertise is with smart contracts and Solidity, but I`m always  curious to learn new skills.
     </SectionText>
     <List>
       <ListItem>

@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I started my journey into the crypto space in 2017 by investing in crypto. Over the years I got more and more interested in blockchain technology and I tried to learn as much as I could about this technology and use cases. Eventually, I started my coding journey with the basic of Soldity and then moved on to do more project based learning. The technology is always evolving and I always thrive to keep learning and stay updated.
+        I started my journey into the crypto space in 2017 by investing in crypto. Over the years I got more and more interested in blockchain technology and I tried to learn as much as I could about the technology and use cases. Eventually, I started my coding journey with the basics of Soldity and then moved on to do more project based learning. The technology is always evolving and I always thrive to keep learning and stay updated.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
