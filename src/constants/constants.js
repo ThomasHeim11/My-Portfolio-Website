@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'NFT Marketplace',
     description: "A blockchain-based marketplace app deployed to the Mumbai Testnet where users can discover, create, purchase, and sell NFTs.",
-    image: '/images/1.png',
+    image: '/images/3.png',
     tags: ['Solidity', 'Hardhat', 'Next.js', 'JavaScript'],
     source: "https://nftmarketspace.netlify.app/",
     visit: "https://github.com/ThomasHeim11/NFTMarketSpace",
