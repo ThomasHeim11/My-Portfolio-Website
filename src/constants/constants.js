@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Ninja Domain Service',
-    description:"A domain service build on the polygon mumbai testnet that lets users mint their own domain names as NFTs.",
+    description:"A domain service built on the polygon mumbai testnet that lets users mint their own domain names as NFTs.",
     image: '/images/2.png',
     tags: ['Solidity', 'Hardhat', 'React', 'JavaScript'],
     source:'https://thomasheim11.github.io/Ninja-Domain-Service/',
