@@ -8,6 +8,16 @@ export const projects = [
     visit: "https://github.com/ThomasHeim11/NFTMarketSpace",
     id: 0,
   },
+  {
+    title: 'Ninja Domain Service',
+    description:"A domain service build on the polygon mumbai testnet that lets users mint their own domain names as NFTs.",
+    image: '/images/2.png',
+    tags: ['Solidity', 'Hardhat', 'React', 'JavaScript'],
+    source:'https://thomasheim11.github.io/Ninja-Domain-Service/',
+    visit: 'https://github.com/ThomasHeim11/Ninja-Domain-Service',
+    id: 1,
+  },
+
 
 ];
 
