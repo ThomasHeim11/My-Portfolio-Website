@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://github.com/ThomasHeim11/Ninja-Domain-Service',
     id: 1,
   },
+  {
+    title: 'DexSwap',
+    description:"A Uniswap V3 clone built from scratch for educational purposes. ",
+    image: '/images/4.png',
+    tags: ['Solidity', 'Foundry', 'React', 'JavaScript'],
+    visit: 'https://github.com/ThomasHeim11/DexSwap',
+    id: 1,
+  },
+
 
 
 ];
